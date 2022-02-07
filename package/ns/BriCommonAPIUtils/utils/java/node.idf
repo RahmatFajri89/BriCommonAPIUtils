@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">BriCommonAPIUtils.utils.java</value>
+  <value name="is_public">false</value>
+  <value name="shared">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0hBNTEyQUxHT1JJVEhNID0gIkhtYWNTSEE1
+MTIiOwogIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTSEEyNTZBTEdPUklUSE0gPSAiSG1h
+Y1NIQTI1NiI7Cglwcml2YXRlIHN0YXRpYyBTdHJpbmcgdG9IZXhTdHJpbmcoYnl0ZVtdIGJ5dGVz
+KSB7CgkJRm9ybWF0dGVyIGZvcm1hdHRlciA9IG5ldyBGb3JtYXR0ZXIoKTsKCQkKCQlmb3IgKGJ5
+dGUgYiA6IGJ5dGVzKSB7CgkJCWZvcm1hdHRlci5mb3JtYXQoIiUwMngiLCBiKTsKCQl9CgoJCXJl
+dHVybiBmb3JtYXR0ZXIudG9TdHJpbmcoKTsKCX0=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>org.apache.axis2.context.MessageContext</value>
+    <value>com.softwareag.apigateway.api.model.application.Application</value>
+    <value>com.softwareag.apigateway.runtime.provider.content.type.ByteContent</value>
+    <value>com.softwareag.pg.PGConstants</value>
+    <value>com.softwareag.pg.rest.RestMessageContext</value>
+    <value>com.softwareag.util.IDataMap</value>
+    <value>java.math.BigInteger</value>
+    <value>java.security.InvalidKeyException</value>
+    <value>java.security.MessageDigest</value>
+    <value>java.security.NoSuchAlgorithmException</value>
+    <value>java.util.Base64</value>
+    <value>java.util.Formatter</value>
+    <value>java.util.Set</value>
+    <value>javax.crypto.Mac</value>
+    <value>javax.crypto.spec.SecretKeySpec</value>
+  </array>
+</Values>
