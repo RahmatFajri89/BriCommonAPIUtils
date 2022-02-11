@@ -7,14 +7,16 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
-  <null name="listACL"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="WmAPIGateway">*.*</value>
+  </record>
+  <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
   <value name="name">BriCommonAPIUtils</value>
   <value name="build"></value>
-  <null name="description"/>
-  <value name="time">2020-04-22 20:34:16 IST</value>
-  <value name="jvm_version">1.8.0_222</value>
-  <value name="publisher">SAG-CNKMXT2.eur.ad.sag</value>
+  <value name="description"></value>
+  <value name="time">2021-11-04 09:56:06 WIB</value>
+  <value name="jvm_version">1.8.0_261</value>
+  <value name="publisher">api.privateopen.dev.bri.co.id</value>
   <value name="patch_nums"></value>
 </Values>
